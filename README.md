@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+- vibe coder!!
 😊undergraduate CS at HBUT 
 💕iGEMer (Team Wiki Developer)(2023), Imagine Cup team leader(2024)
 ❤️Frontend: JavaScript/TypeScript, React.js, Flask.(proficient)
