@@ -17,8 +17,4 @@ Here are some ideas to get you started:
 
 
 - vibe coder!!
-😊undergraduate CS at HBUT 
-💕iGEMer (Team Wiki Developer)(2023), Imagine Cup team leader(2024)
-❤️Frontend: JavaScript/TypeScript, React.js, Flask.(proficient)
-👍Backend: .NET 8, Java Spring(still on it)
-👌Tools: VSTO Office plugin development, cloud-based dev with Azure & GitHub CI/CD.
+😊Data Science and AI @ HKUSTGZ ❤️AI: AIGC, AI Safety, RL, HCI Behavioural Analysis. 💕iGEMer(2023), Imagine Cup team leader(2024)
