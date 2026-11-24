@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-- vibe coder!!
-😊Data Science and AI @ HKUSTGZ ❤️AI: AIGC, AI Safety, RL, HCI Behavioural Analysis. 💕iGEMer(2023), Imagine Cup team leader(2024)
+😊Data Science and AI @ HKUSTGZ ❤️AI: AI Safety,  HCI Behavioural Analysis. 💕iGEMer(2023), Imagine Cup team leader(2024)
